@@ -7,3 +7,9 @@ cliでコントラクト(Rust/sway)のコードベースからTypeScriptの型�
 現在Node環境（プライベート）で実行する分にはいいけど、フロントエンド系のエコシステムはまだ準備中感がある。
 
 [fuel-connectors](https://github.com/FuelLabs/fuel-connectors)とかReactプロバイダーライブラリとか今Active Developmentっぽい。
+
+[Fuel wallet sdk](https://wallet.fuel.network/docs/dev/getting-started/)はある。
+
+## Terminated
+
+フロント実装めんどうになってきたのでやめます。
