@@ -1,0 +1,2 @@
+export const USER_ADDRESS = "fuel12kxwxc962kk4cejz02sfl9dd5pkagczt505kzj2q7ll2wlzh2huq7hyc02"
+export const COUNTER_CONTRACT_ID = "0xe01219cffe3589c80272bb6c73e10d66175e33302b9d011d58418db5e867ee14"
